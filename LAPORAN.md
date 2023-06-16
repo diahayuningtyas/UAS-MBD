@@ -1,5 +1,5 @@
 # UAS Manajemen Basis Data
-Affandika Febrian Putra Yunanto
+Diah Ayuning Tyas
 
 1. Buat Migration Files
 ![image](https://github.com/030Affandika/UAS_MBD/assets/100705931/e5a22494-2c9f-4517-b394-aad0d6e06bbb)
